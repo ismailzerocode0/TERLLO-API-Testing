@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Add Trello API testing collection"
-git remote add origin https://github.com/ismailzerocode0/TERLLO-API-Testing.git
-git branch -M main
-git push -u origin main
