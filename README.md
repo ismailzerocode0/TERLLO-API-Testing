@@ -59,7 +59,7 @@ The requests follow a strict execution priority (`Create` ➔ `Update` ➔ `Dele
 
 4. **Run the Collection:**
    - Open the **Collection Runner** in Postman.
-   - Select the `TERLLO APIS` collection.
+   - Select the `Terllo-Apis` collection.
    - Hit **Run TERLLO APIS** to execute the entire E2E test suite automatically!
 
 ---
